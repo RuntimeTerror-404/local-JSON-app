@@ -1,0 +1,32 @@
+[
+    {
+        "name" : "Mohit Parashar",
+        "age" : "20",
+        "passion" : "Programming",
+        "ideal" : "Sergey Brin"
+    },
+    {
+        "name" : "Jack Parrot",
+        "age" : "19",
+        "passion" : "Marketing",
+        "ideal" : "Steve Jobs"
+    },
+    {
+        "name" : "Kevin Richardson",
+        "age" : "27",
+        "passion" : "Traveling",
+        "ideal" : "Casey Neistat"
+    },
+    {
+        "name" : "Peter Gregory",
+        "age" : "24",
+        "passion" : "Investing",
+        "ideal" : "Warren Buffet"
+    },
+    {
+        "name" : "Sarah Tailor",
+        "age" : "26",
+        "passion" : "Music",
+        "ideal" : "Beyonce"
+    }
+]
